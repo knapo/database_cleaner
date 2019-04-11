@@ -13,7 +13,7 @@ Each strategy is a small amount of code but is code that is usually needed in an
 ```ruby
 # Gemfile
 group :test do
-  gem 'database_cleaner'
+  gem 'database_cleaner_2'
 end
 ```
 

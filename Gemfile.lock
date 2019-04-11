@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    database_cleaner_2 (2.0.0)
+    database_cleaner_2 (2.1.0)
 
 GEM
   specs:
